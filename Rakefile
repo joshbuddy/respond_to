@@ -5,8 +5,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "respond_to"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.description = gem.summary = %Q{Easy way to make respond_to? matchers for case statements.}
     gem.email = "joshbuddy@gmail.com"
     gem.homepage = "http://github.com/joshbuddy/respond_to"
     gem.authors = ["Joshua Hull"]
