@@ -6,11 +6,11 @@ Gem::Specification.new do |s|
   s.name        = "respond_to"
   s.version     = RespondTo::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.authors     = ["Joshua Hull"]
+  s.email       = ["joshbuddy@gmail.com"]
+  s.homepage    = "http://github.com/joshbuddy/respond_to"
+  s.summary     = %q{Easy way to make respond_to? matchers for case statements}
+  s.description = %q{Easy way to make respond_to? matchers for case statements.}
 
   s.rubyforge_project = "respond_to"
 
